@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b1b647-b991-4848-8b99-6657eebcfa13" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/entities/Department.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="62b1b647-b991-4848-8b99-6657eebcfa13" name="Changes" comment="Department entity class">
+      <change afterPath="$PROJECT_DIR$/src/model/entities/Seller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo-dao-jdbc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/demo-dao-jdbc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,8 +77,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667833688367</updated>
-      <workItem from="1667833689763" duration="1826000" />
+      <workItem from="1667833689763" duration="2456000" />
     </task>
+    <task id="LOCAL-00001" summary="Department entity class">
+      <created>1667835933966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667835933966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,5 +102,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Department entity class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Department entity class" />
   </component>
 </project>
