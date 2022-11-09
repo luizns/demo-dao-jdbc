@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62b1b647-b991-4848-8b99-6657eebcfa13" name="Changes" comment="findById implementation">
+    <list default="true" id="62b1b647-b991-4848-8b99-6657eebcfa13" name="Changes" comment="Reusing instantiation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/dao/SellerDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/SellerDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/dao/impl/SellerDaoJDBC.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,7 +102,7 @@
       <updated>1667833688367</updated>
       <workItem from="1667833689763" duration="10444000" />
       <workItem from="1667937107740" duration="4961000" />
-      <workItem from="1667992938057" duration="2344000" />
+      <workItem from="1667992938057" duration="4022000" />
     </task>
     <task id="LOCAL-00001" summary="Department entity class">
       <created>1667835933966</created>
@@ -139,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667942086254</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Reusing instantiation">
+      <created>1667996011079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667996011079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +169,8 @@
     <MESSAGE value="DepartmentDao and SellerDao interfaces" />
     <MESSAGE value="SellerDaoJDBC and DaoFactory" />
     <MESSAGE value="findById implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="findById implementation" />
+    <MESSAGE value="Reusing instantiation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reusing instantiation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
